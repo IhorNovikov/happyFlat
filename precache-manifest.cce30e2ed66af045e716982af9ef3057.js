@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0191d7ec04488b354d9f0943f331fc78",
+    "revision": "035ad88b075d76a2dda28f6835031f65",
     "url": "/happyFlat/index.html"
   },
   {
-    "revision": "3f175c89136bf02be699",
-    "url": "/happyFlat/static/css/main.ba7e1a88.chunk.css"
+    "revision": "565e35797c1bf6c6f326",
+    "url": "/happyFlat/static/css/main.63051e87.chunk.css"
   },
   {
-    "revision": "fad4d9ee85076c61dbea",
-    "url": "/happyFlat/static/js/2.0d7d4584.chunk.js"
+    "revision": "91862b938d9f3f8a8d30",
+    "url": "/happyFlat/static/js/2.0b8a35ca.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/happyFlat/static/js/2.0d7d4584.chunk.js.LICENSE.txt"
+    "url": "/happyFlat/static/js/2.0b8a35ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f175c89136bf02be699",
-    "url": "/happyFlat/static/js/main.02a6cad6.chunk.js"
+    "revision": "565e35797c1bf6c6f326",
+    "url": "/happyFlat/static/js/main.c5a3d3cd.chunk.js"
   },
   {
     "revision": "9131d9f85a14cf0f5bda",
@@ -216,10 +216,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/happyFlat/static/media/7.f1421e5e.jpg"
   },
   {
-    "revision": "97dcc351640e5432afbbc45997594af0",
-    "url": "/happyFlat/static/media/Firefox_Developer.97dcc351.png"
-  },
-  {
     "revision": "256adbf44562f5123e9541ef48ea1ec3",
     "url": "/happyFlat/static/media/article1.256adbf4.jpg"
   },
@@ -252,28 +248,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/happyFlat/static/media/contacts.2ad99944.jpg"
   },
   {
-    "revision": "e37a5e9cc019e123651c7d57fb8a045b",
-    "url": "/happyFlat/static/media/git.e37a5e9c.png"
-  },
-  {
-    "revision": "0c60ec74492ed4fdea062e75ce72584a",
-    "url": "/happyFlat/static/media/html5.0c60ec74.png"
-  },
-  {
-    "revision": "6df411d1b9d5c631c79af3a33dfc1760",
-    "url": "/happyFlat/static/media/js.6df411d1.png"
-  },
-  {
-    "revision": "56f86776503875fc35f0ffc52af3a4a9",
-    "url": "/happyFlat/static/media/lupa2.56f86776.jpg"
-  },
-  {
     "revision": "be00fc4a29d03016e78b28c9943e3f51",
     "url": "/happyFlat/static/media/oval.be00fc4a.svg"
-  },
-  {
-    "revision": "b4e23a502e44692d9f3c8b427ac23e01",
-    "url": "/happyFlat/static/media/redux.b4e23a50.png"
   },
   {
     "revision": "794d10add629641fa4868ed80dcb2658",
