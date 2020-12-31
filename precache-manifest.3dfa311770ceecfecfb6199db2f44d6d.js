@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "035ad88b075d76a2dda28f6835031f65",
+    "revision": "c983f85a3b4b0297343b04d0d540b548",
     "url": "/happyFlat/index.html"
   },
   {
-    "revision": "565e35797c1bf6c6f326",
-    "url": "/happyFlat/static/css/main.63051e87.chunk.css"
+    "revision": "0bb99eefbbeeffba46b2",
+    "url": "/happyFlat/static/css/main.acf6660c.chunk.css"
   },
   {
     "revision": "91862b938d9f3f8a8d30",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/happyFlat/static/js/2.0b8a35ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "565e35797c1bf6c6f326",
+    "revision": "0bb99eefbbeeffba46b2",
     "url": "/happyFlat/static/js/main.c5a3d3cd.chunk.js"
   },
   {
