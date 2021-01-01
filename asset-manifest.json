@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/happyFlat/static/css/main.acf6660c.chunk.css",
-    "main.js": "/happyFlat/static/js/main.c5a3d3cd.chunk.js",
-    "main.js.map": "/happyFlat/static/js/main.c5a3d3cd.chunk.js.map",
+    "main.css": "/happyFlat/static/css/main.c60599b6.chunk.css",
+    "main.js": "/happyFlat/static/js/main.a85f28df.chunk.js",
+    "main.js.map": "/happyFlat/static/js/main.a85f28df.chunk.js.map",
     "runtime-main.js": "/happyFlat/static/js/runtime-main.cd69d672.js",
     "runtime-main.js.map": "/happyFlat/static/js/runtime-main.cd69d672.js.map",
-    "static/js/2.0b8a35ca.chunk.js": "/happyFlat/static/js/2.0b8a35ca.chunk.js",
-    "static/js/2.0b8a35ca.chunk.js.map": "/happyFlat/static/js/2.0b8a35ca.chunk.js.map",
+    "static/js/2.fd1ef8ec.chunk.js": "/happyFlat/static/js/2.fd1ef8ec.chunk.js",
+    "static/js/2.fd1ef8ec.chunk.js.map": "/happyFlat/static/js/2.fd1ef8ec.chunk.js.map",
     "index.html": "/happyFlat/index.html",
-    "precache-manifest.3dfa311770ceecfecfb6199db2f44d6d.js": "/happyFlat/precache-manifest.3dfa311770ceecfecfb6199db2f44d6d.js",
+    "precache-manifest.5d5ade3d2d47f392d747ed55372f378f.js": "/happyFlat/precache-manifest.5d5ade3d2d47f392d747ed55372f378f.js",
     "service-worker.js": "/happyFlat/service-worker.js",
-    "static/css/main.acf6660c.chunk.css.map": "/happyFlat/static/css/main.acf6660c.chunk.css.map",
-    "static/js/2.0b8a35ca.chunk.js.LICENSE.txt": "/happyFlat/static/js/2.0b8a35ca.chunk.js.LICENSE.txt",
+    "static/css/main.c60599b6.chunk.css.map": "/happyFlat/static/css/main.c60599b6.chunk.css.map",
+    "static/js/2.fd1ef8ec.chunk.js.LICENSE.txt": "/happyFlat/static/js/2.fd1ef8ec.chunk.js.LICENSE.txt",
     "static/media/turnkey.module.css": "/happyFlat/static/media/3.8fd0ff49.png",
     "static/media/dismantling.module.css": "/happyFlat/static/media/2.6f93da58.jpg",
     "static/media/article1.module.css": "/happyFlat/static/media/5.a9c76bfd.jpg",
@@ -24,17 +24,16 @@
     "static/media/article4.module.css": "/happyFlat/static/media/5.c89fbdf6.jpg",
     "static/media/plumbing.module.css": "/happyFlat/static/media/3.72e077cc.jpg",
     "static/media/home.module.css": "/happyFlat/static/media/article6.a5136f35.jpg",
-    "static/media/blog.module.css": "/happyFlat/static/media/background2.b3f29c8f.jpg",
     "static/media/contacts.module.css": "/happyFlat/static/media/contacts.2ad99944.jpg",
     "static/media/oval.svg": "/happyFlat/static/media/oval.be00fc4a.svg",
-    "static/media/roadMap.png": "/happyFlat/static/media/roadMap.794d10ad.png",
     "static/media/header.module.css": "/happyFlat/static/media/room5.0d7217ee.jpg",
-    "static/media/users.module.css": "/happyFlat/static/media/team.aed21612.jpg"
+    "static/media/users.module.css": "/happyFlat/static/media/team.aed21612.jpg",
+    "static/media/blog.module.css": "/happyFlat/static/media/wall.60131090.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cd69d672.js",
-    "static/js/2.0b8a35ca.chunk.js",
-    "static/css/main.acf6660c.chunk.css",
-    "static/js/main.c5a3d3cd.chunk.js"
+    "static/js/2.fd1ef8ec.chunk.js",
+    "static/css/main.c60599b6.chunk.css",
+    "static/js/main.a85f28df.chunk.js"
   ]
 }
