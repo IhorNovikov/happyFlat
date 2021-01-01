@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4df18c0c0b9c7c6d4612cb408022a0a4",
+    "revision": "af3b56ae1bfe806e6b6241656f261bc7",
     "url": "/happyFlat/index.html"
   },
   {
-    "revision": "bcb57af5ebd6330c923f",
-    "url": "/happyFlat/static/css/main.c60599b6.chunk.css"
+    "revision": "5e57043ab844e6988db6",
+    "url": "/happyFlat/static/css/main.6bc1e2a5.chunk.css"
   },
   {
     "revision": "4f7e7ea28d69cf1edb5f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/happyFlat/static/js/2.fd1ef8ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bcb57af5ebd6330c923f",
+    "revision": "5e57043ab844e6988db6",
     "url": "/happyFlat/static/js/main.a85f28df.chunk.js"
   },
   {
@@ -254,9 +254,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "aed21612829cf0a2bd6809432ac8fe49",
     "url": "/happyFlat/static/media/team.aed21612.jpg"
-  },
-  {
-    "revision": "60131090769d2dbcce2d356eebb5a856",
-    "url": "/happyFlat/static/media/wall.60131090.jpg"
   }
 ]);
