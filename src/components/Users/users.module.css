@@ -1,0 +1,36 @@
+.usersWrapper {
+	background: #f4f8e7;
+}
+
+.usersInfo {
+	margin: 10px  auto;
+	margin-bottom: 200px;
+	position:relative;
+	width: 80%;
+	background:url(./img/team.jpg) no-repeat;
+	background-size: cover;
+	overflow: hidden;
+	-webkit-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+	box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);	
+}
+
+.usersInfo h2, li{
+	margin-left: 6rem;
+}
+
+.heading {
+	margin-top: 20px;
+	font-size: 3rem;
+	color: #f750e9;
+	text-align: center;
+	
+}
+
+@media screen and (max-width:768px){
+	.usersInfo h2, li{
+		margin-left: 0;
+		font-size: 14px;
+	}
+  }
+

@@ -1,0 +1,142 @@
+.formPassive {
+  display: none;
+}
+
+.formActive {
+  grid-area: mc;
+  width: 23.75rem;
+  position: fixed;
+  margin: 0 auto;
+  margin-left: -11.875rem;
+  bottom: 39%;
+  left: 50%;
+  font-size: 1.25rem;
+  text-align: center;
+  background: #F0F0F0;
+  border: 2px solid #64E9EB;
+  border-radius: 1rem;
+  opacity: 0.8;
+  z-index: 50;
+  animation-name: formOpen;
+  animation-duration: 1s;
+}
+
+.inputPass,
+.inputName,
+.inputEmail,
+.submit {
+  width: 18.75rem;
+  margin: 0.625rem;
+  font-size: 1.6rem;
+  background: lightblue;
+  border-radius: 1rem;
+  border: none;
+  outline: none;
+  text-align: center;
+}
+
+.inputPass:focus,
+.inputName:focus {
+  background: #92f095;
+}
+
+.inputName {
+  margin-left: -0.625rem;
+}
+
+.formGreeting {
+  font-size: 1.8rem;
+  color: #64E9EB;
+}
+
+.submit {
+  color: white;
+  background: #64E9EB;
+}
+
+.error {
+  font-size: 1.6rem;
+  color: red;
+}
+
+.closeForm {
+  width: 1.6rem;
+  position: relative;
+  top: -5.75rem;
+  left: 84.8%;
+  padding: 0;
+  margin: 0;
+  font-size: 1.9rem;
+  background: #F0F0F0;
+  color: #64E9EB;
+  border: none;
+  border-radius: 1rem;
+  z-index: 21;
+}
+
+.userGreeting {
+  position: relative;
+  margin: 0 auto;
+  bottom: 12%;
+  width: 90%;
+  font-size: 1.6rem;
+  line-height: 2.5rem;
+  color: #2ea52a;
+  opacity: 0.8;
+  z-index: 60;
+}
+
+.userGreeting div {
+  height: auto;
+  padding: 1.25rem;
+  margin: 5.625rem;
+  background: white;
+  border: 2px solid gray;
+}
+
+.userGreeting .closeForm {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #2ea52a;
+  background: transparent;
+}
+
+@keyframes formOpen {
+  from {
+    left: 100%;
+  }
+  to {
+    left: 50%;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .userGreeting {
+    font-size: 1.25rem;
+  }
+}
+
+@media screen and (max-width:560px) {
+  .userGreeting {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width:425px) {
+  .formActive {
+    width: 18.75rem;
+    margin-left: -9.375rem;
+    bottom: 34%;
+  }
+  .inputPass,
+  .inputName,
+  .inputEmail,
+  .submit {
+    width: 18.125rem;
+    margin-left: 0;
+  }
+  .closeForm {
+    left: 44.8%;
+  }
+}

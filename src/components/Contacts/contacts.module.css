@@ -1,0 +1,75 @@
+.profile {
+	grid-area: mc;
+	position: relative;
+	height: 92.5rem;
+	font-size:30px;
+	color: black;
+	background:#dcece2;
+	overflow: hidden; 	
+}
+
+.info {
+	position: relative;
+	width: 50%;
+	height: 50%;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 3rem;
+}
+
+.info li{
+  color: rgb(48, 144, 35);
+  list-style-type: none;
+}
+
+.info a,
+.info span {
+color: rgb(48, 144, 35);
+background: #fff8dc;
+opacity: 0.7;
+text-decoration: none;
+}
+
+.info a:hover{
+opacity: 1;
+}
+
+.infoLocation {
+	height: 35%;
+	background: url(./img/contacts.jpg) no-repeat;
+	background-size: 100%;
+	opacity: 0.9;
+}
+
+.infoBody {
+	height: 15%;
+	text-align: left;
+	text-shadow: 2px 8px 6px rgba(0,0,0,0.2), 0px -5px 35px rgba(255,255,255,0.3);
+}
+
+.map{
+	width: 100%;
+	height: 50%;
+}
+
+@media screen and (max-width:1028px) {
+	.infoLocation {	
+		background-position: left;
+	}
+  }
+
+@media screen and (max-width:768px) {
+	.info li {
+		font-size:20px;
+	}
+  }
+
+@media screen and (max-width:525px) {
+	.info {
+		line-height: 2rem;
+		margin-left: 2rem;
+	}
+	.infoLocation{
+		width: 150%;
+	}
+  }

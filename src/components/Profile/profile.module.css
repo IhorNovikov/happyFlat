@@ -1,0 +1,28 @@
+.profile {
+grid-area: h;
+position: relative;
+width:100%;
+top: 22rem;
+font-size:30px;
+color: black;
+}
+
+.profile li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: left;
+}
+
+@media screen and (min-width:320px) {
+	.profile li {
+		font-size:20px;			
+	}	
+}
+
+@media screen and (min-width:475px) {
+	.profile li {
+		font-size:30px;			
+	}	
+}
+

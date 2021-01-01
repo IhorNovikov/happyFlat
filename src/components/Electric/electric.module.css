@@ -1,0 +1,51 @@
+
+.courses {
+	grid-area: mc;
+    height: 100%; 
+	position:relative;
+	background: #ffffff;
+	z-index:10;
+}
+
+
+.courses div {
+	position:relative;
+	width:60vw;
+	margin: 4rem auto;
+	padding:2.5rem;
+	background-position: center;
+	background-size:cover;
+	border-radius:1.25rem;
+	text-align:left;
+	font-size:1.25rem;
+	line-height: 2rem;
+	-webkit-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+	box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);	  
+}
+
+.courses h2, h3 {
+	background:white;
+	margin: 0;
+	padding-bottom:10px;
+	width:45vw;
+}
+
+.img1,
+.img2,
+.img3 {
+  height: 400px;
+  background-size: cover;
+}
+
+.img1{
+  background: url(./img/1.jpg) no-repeat;
+}
+
+.img2{
+  background: url(./img/2.jpg) no-repeat;
+}
+
+.img3{
+	background: url(./img/3.jpg) no-repeat;
+  }

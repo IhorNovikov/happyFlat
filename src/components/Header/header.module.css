@@ -1,0 +1,14 @@
+.header {
+  grid-area: h;
+  width: auto;
+  height: 800px;
+  background: url(./img/room5.jpg) no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.header button {
+  cursor: pointer;
+}

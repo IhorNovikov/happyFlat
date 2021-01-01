@@ -1,0 +1,30 @@
+.footer {
+  grid-area: f;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  font-size: 1.25rem;
+  color: #66CDAA;
+  background: #222;
+}
+
+.footer a {
+  display: block;
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  line-height: 2.2rem;
+  text-decoration: none;
+}
+
+.footer div {
+  margin-top: 0.625rem;
+  width: 13rem;
+}
+
+.footer a:hover {
+  font-weight: 200;
+}
