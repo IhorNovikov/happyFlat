@@ -90,7 +90,7 @@ return (
 		Your password: {password}<br/>
 		Your email: {email}<br/>
 		Now you can login and get more features!
-		<button className={styles.closeForm} onClick={onClick3 }>&times;</button>
+		<button className={styles.closeGreeting} onClick={onClick3 }>&times;</button>
 		</div>
 		</div>	) : ( 	 			
 	<form className={form} onSubmit={onSubmit} >

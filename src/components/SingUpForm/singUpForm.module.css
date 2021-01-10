@@ -60,45 +60,48 @@
 }
 
 .closeForm {
-  width: 1.6rem;
   position: relative;
   top: -5.75rem;
-  left: 84.8%;
-  padding: 0;
-  margin: 0;
-  font-size: 1.9rem;
+  left: 84.8%; 
   background: #F0F0F0;
   color: #64E9EB;
+  z-index: 21;
+}
+
+.closeForm,
+.closeGreeting {
+  width: 1.6rem;
+  padding: 0;
+  margin: 0;
+  right: 0;
+  font-size: 1.9rem;
   border: none;
   border-radius: 1rem;
-  z-index: 21;
 }
 
 .userGreeting {
   position: relative;
   margin: 0 auto;
-  bottom: 12%;
+  bottom: 39%;
   width: 90%;
   font-size: 1.6rem;
   line-height: 2.5rem;
-  color: #2ea52a;
-  opacity: 0.8;
+  color: #131413;
   z-index: 60;
 }
 
 .userGreeting div {
   height: auto;
   padding: 1.25rem;
-  margin: 5.625rem;
   background: white;
+  opacity: 0.8;
   border: 2px solid gray;
 }
 
-.userGreeting .closeForm {
+.closeGreeting {
   position: absolute;
-  top: 0;
-  right: 0;
-  color: #2ea52a;
+  top: 0; 
+  color: #131413;
   background: transparent;
 }
 

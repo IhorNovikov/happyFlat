@@ -48,6 +48,6 @@ const NavBar = (props) => {
 		<Profile username={props.username} firstName={props.firstName}
 		  lastName={props.lastName} email={props.email} /> : null}
     </div>  
-)}
+)} 
  
 export default NavBar;
