@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt text](screenshots/happyFlat.png "One of the pages")​
+
 ## Available Scripts
 
 In the project directory, you can run:
