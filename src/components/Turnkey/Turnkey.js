@@ -2,10 +2,10 @@ import React from 'react';
 import styles from './turnkey.module.css';
 import Slide from 'react-reveal/Slide';
 
-const Courses = () => {
+const Turnkey = () => {
 
 return (
-	<div className={styles.courses}>
+	<div className={styles.container}>
 	 <Slide bottom  duration={2000} >	 
 	<div>
 	Happy Flat performs professional turnkey repairs regardless of the volume of the order 
@@ -46,4 +46,4 @@ return (
 }
  
 
-export default Courses;
+export default Turnkey;

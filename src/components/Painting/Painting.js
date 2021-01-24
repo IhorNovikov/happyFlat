@@ -2,10 +2,10 @@ import React from 'react';
 import styles from './painting.module.css';
 import Slide from 'react-reveal/Slide';
 
-const Courses = () => {
+const Painting = () => {
 
 return (
-	<div className={styles.courses}>
+	<div className={styles.container}>
 	 <Slide bottom  duration={2000} >	 
 	<div>
 	Painting work is the final and definitely one of the most important stages of any repair
@@ -46,4 +46,4 @@ return (
 }
  
 
-export default Courses;
+export default Painting;

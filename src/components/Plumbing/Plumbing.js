@@ -2,10 +2,10 @@ import React from 'react';
 import styles from './plumbing.module.css';
 import Slide from 'react-reveal/Slide';
 
-const Courses = () => {
+const Plumbing = () => {
 
 return (
-	<div className={styles.courses}>
+	<div className={styles.container}>
 	 <Slide bottom  duration={2000} >	 
 	<div>
 	Any work related to plumbing and heating is difficult to perform and requires special 
@@ -53,4 +53,4 @@ return (
 }
  
 
-export default Courses;
+export default Plumbing;

@@ -1,10 +1,9 @@
 .profile {
-grid-area: h;
-position: relative;
-width:100%;
-top: 22rem;
-font-size:30px;
-color: black;
+  grid-area: h;
+  position: relative;
+  top: 22rem;
+  font-size:30px;
+  color: black;
 }
 
 .profile li {

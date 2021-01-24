@@ -1,5 +1,5 @@
 
-.courses {
+.container {
 	grid-area: mc;
     height: 100%; 
 	position:relative;
@@ -8,7 +8,7 @@
 }
 
 
-.courses div {
+.container div {
 	position:relative;	
 	width:60vw;
 	margin: 4rem auto;
@@ -24,7 +24,7 @@
 	box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);	  
 }
 
-.courses h2, h3 {
+.container h2, h3 {
 	background:white;
 	margin: 0;
 	padding-bottom:10px;
